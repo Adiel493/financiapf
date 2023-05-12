@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "92C23CE0-D7E1-46FB-91F5-7BC22174FA12"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "061892D1-EE60-4B7F-AEF2-68F90662D8DF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FinanceApp/FinanceStaticDataProvider.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "467"
+            endingLineNumber = "467"
+            landmarkName = "getIncome(completion:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5B5CA374-60CA-48E3-AE00-432A8EE0A6EE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FinanceApp/FinanceDataSourceProvider.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "95"
+            endingLineNumber = "95"
+            landmarkName = "portfolioCashDataSource(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "78ACBEBB-2B38-4C99-B3A3-DCF305D9B807"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FinanceApp/FinanceDataSourceProvider.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "93"
+            endingLineNumber = "93"
+            landmarkName = "portfolioCashDataSource(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "78ACBEBB-2B38-4C99-B3A3-DCF305D9B807 - 6801a0341ce45d14"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FinanceApp.FinanceDataSourceProvider.portfolioCashDataSource(completion: (FinanceApp.ATCGenericLocalHeteroDataSource) -&gt; ()) -&gt; ()"
+                  moduleName = "FinanceApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alumnos/Desktop/Adiel/FinanciaFinal/FinanceApp/FinanceApp/FinanceDataSourceProvider.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "93"
+                  endingLineNumber = "93"
+                  offsetFromSymbolStart = "124">
+               </Location>
+               <Location
+                  uuid = "78ACBEBB-2B38-4C99-B3A3-DCF305D9B807 - 4f39748fe5ea44ef"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Array&lt;FinanceApp.ATCFinanceAccount&gt;) -&gt; () in FinanceApp.FinanceDataSourceProvider.portfolioCashDataSource(completion: (FinanceApp.ATCGenericLocalHeteroDataSource) -&gt; ()) -&gt; ()"
+                  moduleName = "FinanceApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alumnos/Desktop/Adiel/FinanciaFinal/FinanceApp/FinanceApp/FinanceDataSourceProvider.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "94"
+                  endingLineNumber = "94"
+                  offsetFromSymbolStart = "64">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5680457E-D40A-4F2E-9941-95C1CCC897A4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FinanceApp/FinanceDataSourceProvider.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "94"
+            endingLineNumber = "94"
+            landmarkName = "portfolioCashDataSource(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
